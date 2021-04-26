@@ -1,0 +1,42 @@
+body{
+    background: #d3d2c1 url(fundo.png);
+    font: 20px, Arial, Helvetica, sans-seriff;
+}
+
+#principal{
+    border: 2px;
+    width: 900px;
+    
+}
+
+#menu{
+    background: #c5c5b2 ;
+    padding: 18px;
+
+}
+#conteudo {
+    background: #e2e2c7;
+    padding: 5px;
+}
+
+
+a{
+    color: #4b56a4;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px;
+}
+.centralizar{
+    font-style: italic;
+    text-align: center;
+}
+h1{
+    color: #828271;
+    font-size: 1.2em;
+}
+
+.img-campanha{
+    border: 7px solid #c3c3ae;
+
+}
+
